@@ -1,0 +1,49 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: red;
+    background-image: linear-gradient(to right, red, green, orange, gray, pink, yellow, green, orange, violet);
+}
+
+p {
+    font-size: 25px;
+}
+
+#container .intro {
+    padding-left: 450px;
+    padding-right: 450px;
+}
+
+.intro {
+    align-content: center;
+    padding-top: 30px;
+}
+
+.me {
+    text-align: right;
+    padding-top: 15rem;
+   
+}
+
+.tool {
+
+    box-shadow: 10px 10px;
+    border-radius: 8px;
+    font-size: 30px;
+    border: 0 1.5rem;
+    margin-left: 2rem;
+    padding-left: 12px;
+
+}
+
+#follow {
+    text-align: left;
+    padding-left: 1200px;
+}
+
+@media screen and (max-width: 800px) {
+    .rightcolumn {
+        width: 100%;
+        padding: 0;
+    }
+}
