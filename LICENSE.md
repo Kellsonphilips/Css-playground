@@ -186,6 +186,9 @@ END OF TERMS AND CONDITIONS
    file or class name and description of purpose be included on the
    same "printed page" as the copyright notice for easier
    identification within third-party archives.
+   
+
+Copyright 2022 [Philip.O](https://github.com/Kellsonphilips)
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
